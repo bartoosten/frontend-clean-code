@@ -9,4 +9,7 @@ Frontend - Clean Code
 - Standardization (Seiketsu)
 - Dicipline (Shutsuke)
 
+## Code
+Code should be the implementation of requirements
+Later equals never - LeBlnc's Law
 
