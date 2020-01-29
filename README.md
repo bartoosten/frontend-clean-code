@@ -13,3 +13,7 @@ Frontend - Clean Code
 Code should be the implementation of requirements
 Later equals never - LeBlnc's Law
 
+## Tips
+- Name variables in a way that is readable for humans
+-- let a = 42; 🚫
+-- let age = 42; ✅
