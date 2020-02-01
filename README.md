@@ -10,8 +10,12 @@ Frontend - Clean Code
 - Dicipline (Shutsuke)
 
 ## Code
-Code should be the implementation of requirements
-Later equals never - LeBlnc's Law
+Code should be the implementation of requirements 
+> Later equals never 
+- LeBlnc's Law
+
+### The Boy Scout Rule
+> "Leave the campground cleaner than you found it."
 
 ## Tips
 - Name variables in a way that is readable for humans
@@ -24,3 +28,6 @@ Later equals never - LeBlnc's Law
   - const cdr = 700; 🚫
   - // Callback function debounce rate in milliseconds. 
     const callbackDebounceRate = 700;
+
+Dont over use if statements
+
