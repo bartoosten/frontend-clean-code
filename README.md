@@ -10,7 +10,7 @@ Frontend - Clean Code
 - Dicipline (Shutsuke)
 
 ## Code
-Code should be the implementation of requirements 
+Clean code is code that is easy to understand and easy to change. The code should be the implementation of requirements.  
 > Later equals never 
 - LeBlnc's Law
 
